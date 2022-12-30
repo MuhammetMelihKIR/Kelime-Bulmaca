@@ -12,9 +12,9 @@ https://melih-kir.itch.io/kelimelik
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
 
-<img src="./KelimeBulmaca/ReadMeAssets/game.jpg" alt="racegif" width="20%"/>
-<img src="./KelimeBulmaca/ReadMeAssets/bölümler.jpg" alt="racegif" width="20%" />
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm1.jpg" alt="racegif" width="20%" />
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm2.jpg" alt="racegif" width="20%"/>
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm3.jpg" alt="racegif" width="20%"/>
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm4.jpg" alt="racegif" width="20%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/game.jpg" alt="racegif" width="15%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/bölümler.jpg" alt="racegif" width="15%" />
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm1.jpg" alt="racegif" width="15%" />
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm2.jpg" alt="racegif" width="15%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm3.jpg" alt="racegif" width="15%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm4.jpg" alt="racegif" width="15%"/>
