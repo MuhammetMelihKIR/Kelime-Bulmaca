@@ -9,6 +9,8 @@ Bu oyun bir demodur. Oyun 4 bölümden oluşmaktadır. Her bölümde verilen far
 https://melih-kir.itch.io/kelimelik
 
 ## Oyun Resimleri
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img 
 
 <img src="./KelimeBulmaca/ReadMeAssets/game.jpg" alt="racegif" width="20%"/>
 <img src="./KelimeBulmaca/ReadMeAssets/bölümler.jpg" alt="racegif" width="20%" />
