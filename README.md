@@ -8,7 +8,7 @@ Bu oyun bir demodur. Oyun 4 bölümden oluşmaktadır. Her bölümde verilen far
 ## İndirmek için
 https://melih-kir.itch.io/kelimelik
 
-## Game Screen
+## Oyun Resimleri
 
 <img src="./KelimeBulmaca/ReadMeAssets/game.jpg" alt="racegif" width="24%"/>
 <img src="./KelimeBulmaca/ReadMeAssets/bölümler.jpg" alt="racegif" width="24%" />
