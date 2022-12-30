@@ -2,7 +2,7 @@
 # Kelime Bulmaca
 
 ## Oyun Hakkında
-Bu oyun bir demodur. Oyun 4 bölümden oluşmaktadır. Oyunda her bölümde verilen farklı harflere uygun kelimeleri bularak bölümleri bitirmeye çalışıyoruz.
+Bu oyun bir demodur. Oyun 4 bölümden oluşmaktadır. Her bölümde verilen farklı harflere uygun kelimeleri bularak bölümleri bitirmeye çalışıyoruz.
 
 
 ## İndirmek için
