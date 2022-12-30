@@ -10,9 +10,9 @@ https://melih-kir.itch.io/kelimelik
 
 ## Oyun Resimleri
 
-<img src="./KelimeBulmaca/ReadMeAssets/game.jpg" alt="racegif" width="24%"/>
-<img src="./KelimeBulmaca/ReadMeAssets/bölümler.jpg" alt="racegif" width="24%" />
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm1.jpg" alt="racegif" width="24%" />
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm2.jpg" alt="racegif" width="24%"/>
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm3.jpg" alt="racegif" width="24%"/>
-<img src="./KelimeBulmaca/ReadMeAssets/bölüm4.jpg" alt="racegif" width="24%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/game.jpg" alt="racegif" width="20%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/bölümler.jpg" alt="racegif" width="20%" />
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm1.jpg" alt="racegif" width="20%" />
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm2.jpg" alt="racegif" width="20%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm3.jpg" alt="racegif" width="20%"/>
+<img src="./KelimeBulmaca/ReadMeAssets/bölüm4.jpg" alt="racegif" width="20%"/>
